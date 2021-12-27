@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+@import url("https://studiourbanna.github.io/assets/css/fonts.css");
+
+html, body {
+    background: #000; 
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;
+}
+  
+a {
+    text-decoration: none;
+}
+  
+.w3-content .w3-margin-top {
+    max-width: 100%;
+}
+
+.w3-row-padding{ 
+    background: #000; 
+}
+  
+  .w3-text-teal{
+    color: #6d7072;
+  }
+  
+  .w3-hover-text-teal:hover{
+    color: #2196f3b8!important;
+  }
+  
+  
+  .w3-display-container img {
+    width: 100%;
+    height: 270px;
+    align-content: center;
+  }
+  
+  .w3-display-container h2 {
+    font-family: 'Open Sans', sans-serif;
+    color:  white;
+    text-transform:  uppercase;
+    font-size: 20px;
+    text-weight: bold;
+  }
+  
+  .w3-round-xlarge .w3-teal {
+    height: 24px;
+  }
+  
+  
+  footer {
+    max-width: 100%;
+  }
+  
+  .footer-landr{
+    width: 80%;
+    height: 70px;
+    border-radius: 5px;
+    display: inline-flex;
+    padding: 10px;
+  }
+  
+  
+  .footer-left{
+    width: 50%;
+    text-align: left;
+  }
+  
+.footer-right{
+    width: 50%;
+    float: right;
+    padding-top: 10px;
+}
+
+.brand {
+  font-size: 1rem;
+  text-transform: uppercase;
+  cursor: default;
+}
+
+.w3-text-black{
+    background: #000;
+}
