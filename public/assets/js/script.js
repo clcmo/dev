@@ -114,9 +114,9 @@ const About = props => {
             React.createElement("h4", { class: "subtitle" }, "My name is Camila."), /*#__PURE__*/
             React.createElement("p", null, "I'm a web and mobile developer based in the great metropolitan area from S\xE3o Paulo, Brazil."), /*#__PURE__*/
 
+            React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, poems, and a lot more."),
 
-
-            React.createElement("p", null, "I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, poems, and a lot more.")), /*#__PURE__*/
+                              React.createElement("p", null, "I was born in 1994, I've been writing since I was little, but since the late 2000s I've known something called a blog and from then on, I embarked not only as a reader and writer, but also as a developer.")), /*#__PURE__*/
 
 
 
@@ -127,27 +127,32 @@ const About = props => {
             React.createElement("p", { class: "separator" })), /*#__PURE__*/
 
           React.createElement("div", { class: "desc" }, /*#__PURE__*/
-            React.createElement("h4", { class: "subtitle" }, "I'm a programmer."), /*#__PURE__*/
-            React.createElement("p", null, "For the front-end I usually work with Javascript, including popular frameworks like ReactJS and VueJS. I also make the web pretty by using Sass, SCSS, CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc."), /*#__PURE__*/
+            
+            React.createElement("h4", { class: "subtitle" }, "In Frontend"), /*#__PURE__*/
+            
+            React.createElement("p", null, "For the web front-end I tend to work with Javascript, including popular frameworks like ReactJS and VueJS. I also make the web beautiful using Sass, SCSS, CSS and whenever necessary any of your friends: Bootstrap, Bulma and Jekyll (GitHub Pages)."),
 
+            React.createElement("p", null, "In the mobile front-end, I work with Android languages (Kotlin and Java), but today I started in Flutter also to work with the iOs platform.")), /*#__PURE__*/
 
+          React.createElement("div", { class: "desc" }, /*#__PURE__*/
+            React.createElement("h4", { class: "subtitle" }, "In Backend"), /*#__PURE__*/
+            
+            React.createElement("p", null, "For the web backend I also work with Javascript (NodeJS, Express, MongoDB, etc) and PHP (WordPress, Laravel, etc)."),
 
+            React.createElement("p", null, "For the mobile backend, I learned something about the REST API, so I'm a bit of a novice at this.")), /*#__PURE__*/
 
+          React.createElement("div", { class: "desc" },
+            React.createElement("h4", { class: "subtitle" }, "In Design"), /*#__PURE__*/
+            
+            React.createElement("p", null, "I feel comfortable working with many Adobe, Canva, GIMP, Figma and Photo editors to help me create great things or get inspired."),
 
-            React.createElement("p", null, "In mobile development, I work a lot in Android, but nowadays I enter on the iOS courses to learn about develop apps for Apple's mobile."), /*#__PURE__*/
-
-
-
-
-            React.createElement("p", null, "For the back-end I also work with Javascript (NodeJS, Express, MongoDB, etc). But, of course, whenever the project requires PHP, I do PHP as well (Wordpress, Laravel, etc).")), /*#__PURE__*/
-
-
+            React.createElement("p", null, "Many of the recent edits I make are with Canva, nowadays I learned about how to make digital drawings that I do for my poetry book.")), /*#__PURE__*/
 
 
 
           React.createElement("div", { class: "desc" }, /*#__PURE__*/
-            React.createElement("h4", { class: "subtitle" }, "Also a designer."), /*#__PURE__*/
-            React.createElement("p", null, "I feel comfortable working with many Adobe, Canva, GIMP and Photo editors to help me to create great thing or inspiring myself."))))));
+            React.createElement("h4", { class: "subtitle" }, "In Audio"), /*#__PURE__*/
+            React.createElement("p", null, "Since 2020, I decided to make my poetry a new life in audio. My first podcast, Café Curto, shows this. The long version, Café Podcast, is dedicated to literature and everyday life."))))));
 
 
 
