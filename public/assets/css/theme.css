@@ -647,6 +647,7 @@ a:hover, a:active {
   border: 1px solid transparent;
   color: #fafafa;
   font-weight: bold;
+  margin-left: 1em;
 }
 #welcome-section .container .buttons a.cta:visited {
   background: #f300b4;

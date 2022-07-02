@@ -86,6 +86,7 @@ const Header = props => {
 
 
         React.createElement("div", { class: "buttons" }, /*#__PURE__*/
+          React.createElement("a", { href: "#about" }, "about"), /*#__PURE__*/
           React.createElement("a", { href: "#projects" }, "portfolio"), /*#__PURE__*/
           React.createElement("a", { href: "#contact", class: "cta" }, "contact")))));
 
