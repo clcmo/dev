@@ -235,7 +235,7 @@ const Projects = props => {
         React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
           React.createElement(Project, {
             title: "Camila L. Oliveira's Blog",
-            img: "images/captura_camila.jpeg",
+            img: "images/logo-milla.png",
 
             tech: "css",
             link: "https://camilaloliveira.com.br",
@@ -245,10 +245,22 @@ const Projects = props => {
             React.createElement("small", null, "Built using Wordpress and Elementor."), /*#__PURE__*/
             React.createElement("p", null, "This is the official blog's site by Camila L. Oliveira.")),
 
+           React.createElement(Project, {
+            title: "Camila L. Oliveira's Short Site",
+            img: "images/logo-milla.png",
+
+            tech: "css",
+            link: "https://hello.camilaloliveira.com.br",
+            repo: "https://github.com/clcmo/hello"
+          }, /*#__PURE__*/
+
+            React.createElement("small", null, "Built using HTML and CSS."), /*#__PURE__*/
+            React.createElement("p", null, "This is the official shorts' site by Camila L. Oliveira.")),
+
 
           React.createElement(Project, {
             title: "Studio Urbanna",
-            img: "images/captura_studio.jpeg",
+            img: "images/logo-studio.png",
 
             tech: "js css jekyll",
             link: "https://studiourbanna.github.io/",
@@ -349,7 +361,7 @@ const SocialLinks = props => {
   return /*#__PURE__*/(
     React.createElement("div", { class: "social" }, /*#__PURE__*/
       React.createElement("a", {
-        href: "https://www.linkedin.com/in/clcmdeoliveira/",
+        href: "https://www.linkedin.com/in/clcmo/",
         target: "_blank",
         rel: "noopener noreferrer",
         title: "Link to author's LinkedIn profile"
