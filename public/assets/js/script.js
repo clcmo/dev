@@ -79,10 +79,10 @@ const Header = props => {
       React.createElement("div", { class: "moon" }), /*#__PURE__*/
       React.createElement("div", { class: "container" }, /*#__PURE__*/
         React.createElement("h1", null, /*#__PURE__*/
-          React.createElement("span", { class: "line" }, "I'm"), /*#__PURE__*/
-          React.createElement("span", { class: "line" }, "mobile"), /*#__PURE__*/
+          React.createElement("span", { class: "line" }, "From"), /*#__PURE__*/
           React.createElement("span", { class: "line" }, /*#__PURE__*/
-            React.createElement("span", { class: "color" }, "&"), " web developer.")), /*#__PURE__*/
+            React.createElement("span", { class: "color" }, "SP"), " to"),
+          React.createElement("span", { class: "line" }, "internet"), /*#__PURE__*/), /*#__PURE__*/
 
 
         React.createElement("div", { class: "buttons" }, /*#__PURE__*/
