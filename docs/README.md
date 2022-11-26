@@ -8,6 +8,6 @@
 
 Website created in React, dedicated to telling a little about Camila's professional side and Her Portfolio of Professional and Creative Activities.
 
-![]()
+![Scrrenshot](https://raw.githubusercontent.com/clcmo/dev/main/public/images/screenshot.png)
 
 Licence: [MIT](LICENSE)
